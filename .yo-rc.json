@@ -1,0 +1,9 @@
+{
+  "generator-wix-js": {
+    "promptValues": {
+      "authorName": "Tzachi Azo",
+      "authorEmail": "tzachia@wix.com",
+      "groupId": "com.wixpress.k17"
+    }
+  }
+}
